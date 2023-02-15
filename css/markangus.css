@@ -6,3 +6,7 @@
     width: 100%;    
     opacity: 0.2;
 }
+
+li {
+    list-style-type: none;
+}
