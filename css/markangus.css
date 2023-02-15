@@ -1,6 +1,8 @@
 .shadow-band {
-    background-color: black;
-    width: 100%;
     position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: black;
+    width: 100%;    
     opacity: 0.2;
 }
