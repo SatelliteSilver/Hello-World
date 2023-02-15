@@ -41,8 +41,14 @@
 }
 
 li a {
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+    margin: 0 2px;
     padding: 0 8px 1px 8px;
     border-left: 1px solid #333;
+    color: #993366;
+    font-size: 17px;
+
 }
 
 li:last-child a{
